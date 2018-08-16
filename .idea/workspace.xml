@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e3f7037-4f5d-48ea-b652-dd7ff57d96e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medindia_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cims_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/cims_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/1mg_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drug_details_from_medindia.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,35 +38,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1860" />
+          <entry key="py" value="2211" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1860" />
+          <entry key="Python" value="2211" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cims_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1mg_handler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -83,13 +72,6 @@
                 <marker date="1534425381746" expanded="true" signature="186:191" ph="..." />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/drug_details_from_medindia.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17107" />
           </provider>
         </entry>
       </file>
@@ -111,6 +93,7 @@
         <option value="$PROJECT_DIR$/handler.py" />
         <option value="$PROJECT_DIR$/cims_handler.py" />
         <option value="$PROJECT_DIR$/medindia_handler.py" />
+        <option value="$PROJECT_DIR$/1mg_handler.py" />
       </list>
     </option>
   </component>
@@ -155,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.medindia_handler">
+  <component name="RunManager" selected="Python.1mg_handler">
     <configuration name="1mg_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webscrapper-medicine-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,8 +209,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.medindia_handler" />
         <item itemvalue="Python.1mg_handler" />
+        <item itemvalue="Python.medindia_handler" />
         <item itemvalue="Python.cims_handler" />
       </list>
     </recent_temporary>
@@ -249,12 +232,12 @@
     <frame x="-8" y="32" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969843" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,16 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1mg_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medindia_handler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -306,7 +279,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drug_details_from_medindia.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17107" />
+        <state relative-caret-position="369">
+          <caret line="1028" column="37" lean-forward="true" selection-start-line="1028" selection-start-column="37" selection-end-line="1028" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
