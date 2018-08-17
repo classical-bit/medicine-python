@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup as soup
 import string
 import csv
 
-url = 'https://www.medindia.net/drug-price/index.asp?alpha='
+url_base = 'https://www.medindia.net/doctors/drug_information/'
+url = url_base + 'home.asp?alpha='
+
 
 def get_soup(url_string):
     client = urlopen(url_string)
@@ -13,14 +15,14 @@ def get_soup(url_string):
 
 
 alphabets = list(string.ascii_uppercase)
+# alphabets = ['A']
 drug_details = list()
-
-# print(get_soup(url+alphabets[0]).find('table', {'class': 'table-bordered table'}).find_all('a'))
 for alpha in range(len(alphabets)):
-    for element in get_soup(url+alphabets[alpha]).find('table', {'class': 'table-bordered table'}).find_all('a'):
-        u = element['href']
-        with open('drug_details_from_medindia.csv', 'a', encoding='utf8', newline="") as csv_file:
-            writer = csv.writer(csv_file, delimiter=",")
-            if u[:4] == 'http':
-                print(element.text, u)
-                writer.writerow([element.text, u])
+    page_soup = get_soup(url+alphabets[alpha]).find_all('li', {'class': 'list-item'})
+    for index, element in enumerate(page_soup):
+        with open('drug_details_from_medindia.csv', 'a', encoding='utf8', newline='') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow([element.h4.a.text, str.replace(element.text, '\n', ''), url_base+element.h4.a['href']])
+        print("DONE:", alphabets[alpha], index + 1, '/', len(page_soup))
+
+csv_file.close()
