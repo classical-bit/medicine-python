@@ -42,7 +42,6 @@ def self_func(count_drugs):
                 except AttributeError:
                     print('\tAttributeError: drugs_contents')
 
-
                 if flag_check_more is None and all_substitutes is None:
                     print('\tNoSubsFound...')
                     with open('drugs_with_no_subs.csv', 'a', encoding='utf8', newline='') as no_sub_file:
@@ -67,6 +66,7 @@ def self_func(count_drugs):
                     sub_file.close()
                     print('\tCREATED: ', drug_address_element[0] + '.csv')
 
+                drug_content_list = []
                 for drug_content in drug_contents:
                     drug_content_list.append(str.replace(drug_content.text, '\n', ''))
 

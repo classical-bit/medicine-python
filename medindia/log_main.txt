@@ -1,0 +1,271 @@
+DATE: 18-Aug-2018 [3:02 PM]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/medindia_s2_handler.py"
+----------------------------------------------
+LogNotFound: Starting from index 1
+----------------------------------------------
+	CREATED:  Abacavir .csv
+DONE: 1 / 1992 [ Abacavir  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 2 / 1992 [ Abacavir Sulfate and Lamivudine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 3 / 1992 [ Abacavir Sulfate, Lamivudine and Zidovudine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 4 / 1992 [ Abaloparatide  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 5 / 1992 [ Abarelix  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 6 / 1992 [ Abatacept  ]
+----------------------------------------------
+	CREATED:  Abciximab .csv
+DONE: 7 / 1992 [ Abciximab  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 8 / 1992 [ Abemaciclib  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 9 / 1992 [ Abiraterone Acetate    ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 10 / 1992 [ Abobotulinumtoxin A Injection   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 11 / 1992 [ Acalabrutinib  ]
+----------------------------------------------
+	CREATED:  Acamprosate .csv
+DONE: 12 / 1992 [ Acamprosate  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Acarbose .csv
+DONE: 13 / 1992 [ Acarbose  ]
+----------------------------------------------
+	CREATED:  Acebrophylline  .csv
+DONE: 14 / 1992 [ Acebrophylline   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+	ColumnMismatch... 
+	LOGGED: 'drug_columns_dismatch.csv'
+DONE: 15 / 1992 [ Acebutolol   ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Aceclofenac .csv
+DONE: 16 / 1992 [ Aceclofenac  ]
+----------------------------------------------
+	CREATED:  Acenocoumarol .csv
+DONE: 17 / 1992 [ Acenocoumarol  ]
+----------------------------------------------
+	CREATED:  Acetaminophen and Codeine .csv
+DONE: 18 / 1992 [ Acetaminophen and Codeine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+**********************************************
+D.O.S: Try After An Appropiate Long Break
+**********************************************
+
+Process finished with exit code 0
+
+DATE: 20-Aug-2018 [11:46 AM]
+[18 TO 42 [MISSING]]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/medindia_s2_handler.py"
+----------------------------------------------
+LogFound: Continuing From index 42
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 43 / 1992 [ Afatinib  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 44 / 1992 [ Agalsidase   ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Albendazole .csv
+DONE: 45 / 1992 [ Albendazole  ]
+----------------------------------------------
+	CREATED:  Albumin Human .csv
+DONE: 46 / 1992 [ Albumin Human  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Albuterol (Salbutamol)                             .csv
+DONE: 47 / 1992 [ Albuterol (Salbutamol)                              ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 48 / 1992 [ Albuterol and Ipratropium  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 49 / 1992 [ Alcaftadine Ophthalmic Solution  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 50 / 1992 [ Alclometasone   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 51 / 1992 [ Alclometasone Dipropionate   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 52 / 1992 [ Aldesleukin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 53 / 1992 [ Alectinib  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 54 / 1992 [ Alefacept  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 55 / 1992 [ Alemtuzumab    ]
+----------------------------------------------
+	CREATED:  Alendronate .csv
+DONE: 56 / 1992 [ Alendronate  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Alfacalcidol .csv
+DONE: 57 / 1992 [ Alfacalcidol  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 58 / 1992 [ Alfentanil Hydrochloride Injection  ]
+----------------------------------------------
+	CREATED:  Alfuzosin .csv
+DONE: 59 / 1992 [ Alfuzosin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 60 / 1992 [ Alglucerase injection    ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 61 / 1992 [ Alglucosidase  ]
+----------------------------------------------
+	CREATED:  Aliskiren .csv
+DONE: 62 / 1992 [ Aliskiren  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 63 / 1992 [ Aliskiren and Amlodipine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 64 / 1992 [ Aliskiren and hydrochlorothiazide    ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 65 / 1992 [ Aliskiren and valsartan    ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 66 / 1992 [ Aliskiren, Amlodipine and Hydrochlorothiazide   ]
+----------------------------------------------
+	CREATED:  Allantoin .csv
+DONE: 67 / 1992 [ Allantoin  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Allopurinol                                        .csv
+DONE: 68 / 1992 [ Allopurinol                                         ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Allylestrenol .csv
+DONE: 69 / 1992 [ Allylestrenol  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 70 / 1992 [ Almotriptan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 71 / 1992 [ Alogliptin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 72 / 1992 [ Alogliptin and Metformin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 73 / 1992 [ Alogliptin and Pioglitazone   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 74 / 1992 [ Alpha galactosidase  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 75 / 1992 [ Alpha One-proteinase inhibitor    ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 76 / 1992 [ Alpha-linolenic acid  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Alprazolam .csv
+DONE: 77 / 1992 [ Alprazolam  ]
+----------------------------------------------
+	CREATED:  Alprostadil .csv
+DONE: 78 / 1992 [ Alprostadil  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 79 / 1992 [ Alteplase  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 80 / 1992 [ Altretamine  ]
+----------------------------------------------
+	CREATED:  Aluminum Hydroxide and Magnesium Hydroxide .csv
+DONE: 81 / 1992 [ Aluminum Hydroxide and Magnesium Hydroxide  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 82 / 1992 [ Alvimopan Capsules   ]
+----------------------------------------------
+	CREATED:  Amantadine .csv
+DONE: 83 / 1992 [ Amantadine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 84 / 1992 [ Ambenonium  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+**********************************************
+D.O.S: Try After An Appropiate Long Break
+**********************************************
+
+Process finished with exit code 0
+
+
+DATE: 20-Aug-2018 [11:48 AM]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/medindia_s2_handler.py"
+----------------------------------------------
+LogFound: Continuing From index 84
+----------------------------------------------
+	CREATED:  Ambrisentan .csv
+DONE: 85 / 1992 [ Ambrisentan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+**********************************************
+D.O.S: Try After An Appropiate Long Break
+**********************************************
+
+Process finished with exit code 0
