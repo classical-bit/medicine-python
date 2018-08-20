@@ -269,3 +269,193 @@ D.O.S: Try After An Appropiate Long Break
 **********************************************
 
 Process finished with exit code 0
+
+
+DATE: 20-Aug-2018 [4:34 PM]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/medindia/medindia_s2_handler.py"
+----------------------------------------------
+LogFound: Continuing From index 85
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Ambroxol .csv
+DONE: 86 / 1992 [ Ambroxol  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 87 / 1992 [ Amcinonide  ]
+----------------------------------------------
+	CREATED:  Amifostine .csv
+DONE: 88 / 1992 [ Amifostine  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amikacin .csv
+DONE: 89 / 1992 [ Amikacin  ]
+----------------------------------------------
+	CREATED:  Amiloride .csv
+DONE: 90 / 1992 [ Amiloride  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 91 / 1992 [ Amiloride and Hydrochlorothiazide  ]
+----------------------------------------------
+	CREATED:  Aminocaproic Acid .csv
+DONE: 92 / 1992 [ Aminocaproic Acid  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 93 / 1992 [ Aminoglutethimide  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 94 / 1992 [ Aminohippurate Sodium   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 95 / 1992 [ Aminolevulinic acid    ]
+----------------------------------------------
+	CREATED:  Aminophylline .csv
+DONE: 96 / 1992 [ Aminophylline  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amiodarone .csv
+DONE: 97 / 1992 [ Amiodarone  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amisulpride .csv
+DONE: 98 / 1992 [ Amisulpride  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amitriptyline .csv
+DONE: 99 / 1992 [ Amitriptyline  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 100 / 1992 [ Amitriptyline and Perphenazine  ]
+----------------------------------------------
+	CREATED:  Amlexanox  .csv
+DONE: 101 / 1992 [ Amlexanox   ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amlodipine .csv
+DONE: 102 / 1992 [ Amlodipine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 103 / 1992 [ Amlodipine and Benazepril  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 104 / 1992 [ Amlodipine and Enalapril  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 105 / 1992 [ Amlodipine and Lisinopril  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 106 / 1992 [ Amlodipine and Losartan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 107 / 1992 [ Amlodipine and Olmesartan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 108 / 1992 [ Amlodipine and Valsartan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 109 / 1992 [ Amlodipine Hydrochlorothiazide and Olmesartan  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 110 / 1992 [ Amlodipine, Valsartan and Hydrochlorothiazide  ]
+----------------------------------------------
+	CREATED:  Ammonium Lactate .csv
+DONE: 111 / 1992 [ Ammonium Lactate  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 112 / 1992 [ Amobarbital  ]
+----------------------------------------------
+	CREATED:  Amodiaquine .csv
+DONE: 113 / 1992 [ Amodiaquine  ]
+----------------------------------------------
+	CREATED:  Amorolfine .csv
+DONE: 114 / 1992 [ Amorolfine  ]
+----------------------------------------------
+	CREATED:  Amoxapine .csv
+DONE: 115 / 1992 [ Amoxapine  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Amoxicillin .csv
+DONE: 116 / 1992 [ Amoxicillin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 117 / 1992 [ Amoxicillin and Bromhexine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 118 / 1992 [ Amoxicillin and Carbocisteine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 119 / 1992 [ Amoxicillin and Clavulanate Potassium               ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 120 / 1992 [ Amoxicillin and Clavulanic acid  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 121 / 1992 [ Ampenavir  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 122 / 1992 [ Amphetamine, Dextroamphetamine Mixed Salts  ]
+----------------------------------------------
+	CREATED:  Amphotericin B .csv
+DONE: 123 / 1992 [ Amphotericin B  ]
+----------------------------------------------
+	MoreSubsFound...
+	CREATED:  Ampicillin .csv
+DONE: 124 / 1992 [ Ampicillin  ]
+----------------------------------------------
+	CREATED:  Ampicillin and Sulbactam .csv
+DONE: 125 / 1992 [ Ampicillin and Sulbactam  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 126 / 1992 [ Amsacrine  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 127 / 1992 [ Amyl Nitrite   ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 128 / 1992 [ Anagrelide  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 129 / 1992 [ Anakinra  ]
+----------------------------------------------
+	CREATED:  Anastrozole .csv
+DONE: 130 / 1992 [ Anastrozole  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 131 / 1992 [ Angiotensin II  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+DONE: 132 / 1992 [ Anidulafungin  ]
+----------------------------------------------
+	NoSubsFound...
+	LOGGED: 'drugs_with_no_subs.csv'
+**********************************************
+D.O.S: Try After An Appropiate Long Break
+**********************************************
+
+Process finished with exit code 0

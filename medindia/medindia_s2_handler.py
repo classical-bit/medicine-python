@@ -51,7 +51,7 @@ def self_func(count_drugs):
                     print('\tLOGGED: \'drugs_with_no_subs.csv\'')
 
                 elif flag_check_more is None:
-                    with open(drug_address_element[0] + '.csv', 'a', encoding='utf8', newline='') as sub_file:
+                    with open('substitutes/'+drug_address_element[0] + '.csv', 'a', encoding='utf8', newline='') as sub_file:
                         sub_writer = csv.writer(sub_file)
                         for all_substitute in all_substitutes:
                             sub_writer.writerow([all_substitute.text, all_substitute['href']])
@@ -59,7 +59,7 @@ def self_func(count_drugs):
                     print('\tCREATED: ', drug_address_element[0] + '.csv')
                 else:
                     print('\tMoreSubsFound...')
-                    with open(drug_address_element[0] + '.csv', 'a', encoding='utf8', newline='') as sub_file:
+                    with open('substitutes/'+drug_address_element[0] + '.csv', 'a', encoding='utf8', newline='') as sub_file:
                         sub_writer = csv.writer(sub_file)
                         for extra_substitute in all_extra_substitutes:
                             sub_writer.writerow([extra_substitute.a.text, extra_substitute.a['href']])
@@ -172,6 +172,7 @@ try:
             drug_address.append((row[0], row[2]))
 except FileNotFoundError:
     print("FileNotFound: \'drug_details_from_medindia.csv\'")
+    exit(0)
 finally:
     try:
         csv_file_in.close()
@@ -194,4 +195,7 @@ except FileNotFoundError:
     print('----------------------------------------------')
     print('LogNotFound: Starting from index 1')
     print('----------------------------------------------')
-    self_func(countDrugs)
+    # Strictly Follow Log
+    print('|Set To EXIT When LogNotFound|')
+    exit(0)
+    # self_func(countDrugs)

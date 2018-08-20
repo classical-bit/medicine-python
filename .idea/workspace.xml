@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e3f7037-4f5d-48ea-b652-dd7ff57d96e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medindia_s2_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/medindia_s2_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/drug_columns_dismatch.csv" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/drug_columns_dismatch.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/drug_detail_s2_filter.csv" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/drug_detail_s2_filter.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/drugs_with_no_subs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/drugs_with_no_subs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/log_main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/log_main.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/log_medindia_s2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/log_medindia_s2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medindia/medindia_s2_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/medindia_s2_handler.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,52 +21,57 @@
     <session id="523800899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="67" />
-          <entry key="py" value="13" />
+          <entry key="csv" value="77" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="67" />
-          <entry key="Python" value="13" />
+          <entry key="CSV" value="77" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="30" />
           <entry key="csv" value="4" />
-          <entry key="py" value="7263" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="8761" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="4" />
-          <entry key="Python" value="7293" />
+          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="Python" value="8791" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="true" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medindia_s2_handler.py">
+      <file pinned="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/medindia/medindia_s2_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="1950">
+              <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -69,19 +80,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_medindia_s2.csv">
+        <entry file="file://$PROJECT_DIR$/medindia/drug_detail_s2_filter.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-1662">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/drug_detail_s2_filter.csv">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acarbose .csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="-1053" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/medindia/substitutes/Abacavir .csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -115,10 +145,13 @@
         <option value="$PROJECT_DIR$/medindia_s2_handler.py" />
         <option value="$PROJECT_DIR$/drug_detail_s2_filter.csv" />
         <option value="$PROJECT_DIR$/log_medindia_s2.csv" />
+        <option value="$PROJECT_DIR$/medindia/log_main.txt" />
+        <option value="$PROJECT_DIR$/medindia/medindia_s2_handler.py" />
+        <option value="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="216" />
     <option name="y" value="34" />
     <option name="width" value="1400" />
@@ -137,6 +170,17 @@
               <item name="webscrapper-medicine-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="webscrapper-medicine-python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="webscrapper-medicine-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscrapper-medicine-python" type="462c0819:PsiDirectoryNode" />
+              <item name="medindia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webscrapper-medicine-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscrapper-medicine-python" type="462c0819:PsiDirectoryNode" />
+              <item name="medindia" type="462c0819:PsiDirectoryNode" />
+              <item name="substitutes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +190,12 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WordPress System\Documents\docoding\webscrapper-medicine-python\medindia\substitutes" />
+      <recent name="C:\Users\WordPress System\Documents\docoding\webscrapper-medicine-python\medindia" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.medindia_s2_handler">
+  <component name="RunManager" selected="Python.medindia_s3_handler">
     <configuration name="1mg_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webscrapper-medicine-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,27 +223,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1mg_handler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cims_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="webscrapper-medicine-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cims_handler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,6 +252,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="medindia_s2_handler (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webscrapper-medicine-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medindia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medindia/medindia_s2_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="medindia_s2_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webscrapper-medicine-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,18 +294,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="medindia_s3_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webscrapper-medicine-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medindia/substitutes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.1mg_handler" />
-      <item itemvalue="Python.cims_handler" />
       <item itemvalue="Python.medindia_handler" />
       <item itemvalue="Python.medindia_s2_handler" />
+      <item itemvalue="Python.medindia_s2_handler (1)" />
+      <item itemvalue="Python.medindia_s3_handler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.medindia_s3_handler" />
+        <item itemvalue="Python.medindia_s2_handler (1)" />
         <item itemvalue="Python.medindia_s2_handler" />
         <item itemvalue="Python.medindia_handler" />
         <item itemvalue="Python.1mg_handler" />
-        <item itemvalue="Python.cims_handler" />
       </list>
     </recent_temporary>
   </component>
@@ -273,26 +346,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1696" height="1026" extended-state="6" />
+    <frame x="216" y="34" width="1400" height="970" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1827503" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22246696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32847533" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32286996" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49939686" weight="0.34449762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3277512" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060314" side_tool="true" weight="0.32286996" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246696" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49939686" visible="true" weight="0.34449762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32847533" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060314" side_tool="true" weight="0.32286996" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -300,13 +392,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/handler.py" />
     <entry file="file://$PROJECT_DIR$/cims_handler.py" />
-    <entry file="file://$PROJECT_DIR$/1mg_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1566603320/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -315,76 +400,108 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Azithromycin.csv" />
-    <entry file="file://$PROJECT_DIR$/drug_columns_dismatch.csv">
+    <entry file="file://$PROJECT_DIR$/medindia/drug_columns_dismatch.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Acenocoumarol .csv">
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acenocoumarol .csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aceclofenac .csv">
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Aceclofenac .csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Acebrophylline  .csv">
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acebrophylline  .csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Acamprosate .csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Abciximab .csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Acarbose .csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drugs_with_no_subs.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Abacavir .csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medindia_handler.py">
+    <entry file="file://$PROJECT_DIR$/medindia/medindia_handler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drug_details_from_medindia.csv">
+    <entry file="file://$PROJECT_DIR$/medindia/drug_details_from_medindia.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medindia_s2_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log_medindia_s2.csv">
+    <entry file="file://$PROJECT_DIR$/medindia/log_medindia_s2.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Abciximab .csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acetaminophen or Paracetamol .csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/drug_detail_s2_filter.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/log_main.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="531">
+          <caret line="297" column="24" selection-start-line="297" selection-start-column="24" selection-end-line="297" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/drugs_with_no_subs.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acarbose .csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/drug_detail_s2_filter.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1662">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Acamprosate .csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/Abacavir .csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medindia/medindia_s2_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
