@@ -18,7 +18,7 @@ for drug_name in drug_names:
         with open(drug_name, 'r', encoding='utf8') as in_file:
             in_file_reader = csv.reader(in_file)
             for row in in_file_reader:
-                drug_url.append(row[1])
+                drug_url.append(row)
         in_file.close()
     except FileNotFoundError:
         print('FileNotFoundError:')
@@ -27,9 +27,11 @@ for drug_name in drug_names:
     try:
         d = list()
         details = list()
-        for each_drug_url in drug_url:
+        for each_drug_name, each_drug_url in drug_url:
             details = []
             d = []
+            details.append(each_drug_name)
+            details.append(each_drug_url)
             page_soup = get_soup(each_drug_url)
             d.append(str.replace(page_soup.find('div', {'class': 'report-content'}).text, '\xa0', ''))
             for b_elem in page_soup.find('div', {'class': 'ybox'}).find_all('b'):
