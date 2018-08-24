@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e3f7037-4f5d-48ea-b652-dd7ff57d96e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1mg/1mg_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1mg/drug_details_from_medindia.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1mg_handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/medindia/substitutes/detailed/Abacavir .csv" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/substitutes/detailed/Abacavir .csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/1mg_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/1mg_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/log_1mg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/log_1mg.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/log_main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/log_main.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/output_from_1mg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/output_from_1mg.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/raw/Abamune 300 mg Tablet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/raw/Abamune 300 mg Tablet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1mg/raw/raw_files_name.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1mg/raw/raw_files_name.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
     <session id="523800899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -28,63 +29,110 @@
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="89" />
-          <entry key="py" value="17" />
-          <entry key="txt" value="4" />
+          <entry key="csv" value="101" />
+          <entry key="py" value="18" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="89" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="17" />
+          <entry key="CSV" value="101" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="30" />
-          <entry key="csv" value="4" />
+          <entry key="csv" value="18" />
           <entry key="dummy" value="4" />
-          <entry key="py" value="11997" />
-          <entry key="txt" value="32" />
+          <entry key="py" value="12271" />
+          <entry key="txt" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="4" />
-          <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="12027" />
+          <entry key="CSV" value="18" />
+          <entry key="PLAIN_TEXT" value="146" />
+          <entry key="Python" value="12301" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1mg/1mg_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="207" column="4" lean-forward="true" selection-start-line="207" selection-start-column="4" selection-end-line="210" selection-end-column="28" />
+            <state relative-caret-position="3991">
+              <caret line="257" column="41" selection-start-line="257" selection-start-column="41" selection-end-line="257" selection-end-column="41" />
               <folding>
-                <element signature="e#207#338#0" />
-                <element signature="e#4963#5957#0" />
-                <marker date="1535057227211" expanded="true" signature="388:5692" ph="..." />
+                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#246#377#0" />
+                <marker date="1535110565728" expanded="true" signature="408:7068" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1mg/drug_details_from_medindia.csv">
+        <entry file="file://$PROJECT_DIR$/1mg/raw/Abamune 300 mg Tablet.txt">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1mg/raw/Abcixirel 10 mg Injection.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1mg/raw/Acamptas 333 mg Tablet.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1mg/drug_details_from_medindia.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1088">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1mg/output_from_1mg.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1mg/log_main.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1mg/log_1mg.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-end-line="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -104,6 +152,8 @@
       <find>mix_output_from_1mg_file_writer</find>
       <find>mix_output_from_1mg_file</find>
       <find>output_from_1mg_file</find>
+      <find>DrugInfo__drug-name-heading___adCs-</find>
+      <find>close</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,11 +172,15 @@
         <option value="$PROJECT_DIR$/medindia/medindia_s2_handler.py" />
         <option value="$PROJECT_DIR$/medindia/substitutes/medindia_s3_handler.py" />
         <option value="$PROJECT_DIR$/1mg_handler.py" />
+        <option value="$PROJECT_DIR$/1mg/raw/raw_files_name.csv" />
+        <option value="$PROJECT_DIR$/1mg/log_main.txt" />
         <option value="$PROJECT_DIR$/1mg/1mg_handler.py" />
+        <option value="$PROJECT_DIR$/1mg/log_1mg.csv" />
+        <option value="$PROJECT_DIR$/1mg/output_from_1mg.csv" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="216" />
     <option name="y" value="34" />
     <option name="width" value="1400" />
@@ -149,6 +203,12 @@
               <item name="webscrapper-medicine-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="webscrapper-medicine-python" type="462c0819:PsiDirectoryNode" />
               <item name="1mg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webscrapper-medicine-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscrapper-medicine-python" type="462c0819:PsiDirectoryNode" />
+              <item name="1mg" type="462c0819:PsiDirectoryNode" />
+              <item name="raw" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,38 +387,19 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32847533" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49939686" visible="true" weight="0.3441704" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49758744" weight="0.3441704" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3071749" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060314" side_tool="true" weight="0.32286996" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3071749" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50241256" side_tool="true" weight="0.3441704" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246696" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32847533" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49939686" visible="true" weight="0.34449762" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32847533" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060314" side_tool="true" weight="0.32286996" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295964" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -466,39 +507,67 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/raw_details_from_1mg.csv" />
-    <entry file="file://$PROJECT_DIR$/1mg/drug_details_from_medindia.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1mg/mix/mix_output_from_1mg.csv">
+    <entry file="file://$PROJECT_DIR$/1mg/mix/mix_output_from_1mg.csv" />
+    <entry file="file://$PROJECT_DIR$/1mg/raw/Reopro 10 mg Injection.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="193">
+          <caret line="46" column="178" lean-forward="true" selection-start-line="46" selection-start-column="178" selection-end-line="46" selection-end-column="178" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1mg/output_from_1mg.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1mg/raw/Abamune 300 mg Tablet.txt">
+    <entry file="file://$PROJECT_DIR$/1mg/raw/raw_files_name.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1mg/raw/raw_files_name.csv">
+    <entry file="file://$PROJECT_DIR$/1mg/raw/Acamptas 333 mg Tablet.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/1mg/log_main.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1mg/log_1mg.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg/raw/Abamune 300 mg Tablet.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg/raw/Abcixirel 10 mg Injection.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1mg/1mg_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="207" column="4" lean-forward="true" selection-start-line="207" selection-start-column="4" selection-end-line="210" selection-end-column="28" />
+        <state relative-caret-position="3991">
+          <caret line="257" column="41" selection-start-line="257" selection-start-column="41" selection-end-line="257" selection-end-column="41" />
           <folding>
-            <element signature="e#207#338#0" />
-            <element signature="e#4963#5957#0" />
-            <marker date="1535057227211" expanded="true" signature="388:5692" ph="..." />
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#246#377#0" />
+            <marker date="1535110565728" expanded="true" signature="408:7068" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg/drug_details_from_medindia.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1mg/output_from_1mg.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

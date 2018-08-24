@@ -59,3 +59,146 @@ Traceback (most recent call last):
 urllib.error.HTTPError: HTTP Error 502: Bad Gateway
 
 Process finished with exit code 1
+
+DATE: 24-AUG-18 [12:46 PM]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/1mg/1mg_handler.py"
+LogFound: Continuing From Index -1
+----------------------------------------------------------------------------------------------------------
+STARTING[ 1 / 1992 ] Abacavir Sulfate, Lamivudine and Zidovudine
+----------------------------------------------------------------------------------------------------------
+HTTPError: No Match Found | Bad Gateway
+STARTING[ 2 / 1992 ] Abaloparatide
+----------------------------------------------------------------------------------------------------------
+STARTING[ 3 / 1992 ] Abarelix
+----------------------------------------------------------------------------------------------------------
+STARTING[ 4 / 1992 ] Abatacept
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 1 ] /generics/abatacept-212955
+		STAGE-2[ 1 / 1 ] /brands/orencia-b3JlbmNpYQ==
+				STAGE-3[ 1 / 1 ] /drugs/orencia-250mg-injection-232117
+						RAW OUTPUT CREATED:  Orencia 250 mg Injection
+						USER-FRIENDLY OUTPUT CREATED:  Orencia 250 mg Injection
+STARTING[ 5 / 1992 ] Abciximab
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 1 ] /generics/abciximab-209309
+		STAGE-2[ 1 / 3 ] /brands/abcixirel-YWJjaXhpcmVs
+				STAGE-3[ 1 / 1 ] /drugs/abcixirel-10mg-injection-157692
+						RAW OUTPUT CREATED:  Abcixirel 10 mg Injection
+AttributeError: primary_use_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Abcixirel 10 mg Injection
+		STAGE-2[ 2 / 3 ] /brands/faximab-ZmF4aW1hYg==
+				STAGE-3[ 1 / 1 ] /drugs/faximab-10mg-injection-232335
+						RAW OUTPUT CREATED:  Faximab 10 mg Injection
+AttributeError: primary_use_of_drug
+AttributeError: price_of_drug
+AttributeError: price_per_tablet_of_drug
+AttributeError: quantity_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Faximab 10 mg Injection
+		STAGE-2[ 3 / 3 ] /brands/reopro-cmVvcHJv
+				STAGE-3[ 1 / 2 ] /drugs/reopro-10mg-injection-232933
+						RAW OUTPUT CREATED:  Reopro 10 mg Injection
+AttributeError: primary_use_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Reopro 10 mg Injection
+				STAGE-3[ 2 / 2 ] /otc/reopro-device-otc306974
+AttributeError: name_of_drug
+Traceback (most recent call last):
+  File "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/1mg/1mg_handler.py", line 232, in <module>
+    lists_found_in_s2(lists_containing_s2_results)
+  File "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/1mg/1mg_handler.py", line 168, in lists_found_in_s2
+    get_drug_info(url_to_s4)
+  File "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/1mg/1mg_handler.py", line 34, in get_drug_info
+    with open('raw/'+str.replace(name_of_drug, '/', 'or')+'.txt', 'a', encoding='utf8') as raw_output_file:
+UnboundLocalError: local variable 'name_of_drug' referenced before assignment
+
+Process finished with exit code 1
+
+[REVERTING TILL LAST RECORD]
+
+DATE: 24-Aug-2018 [2:42 PM]
+"C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\python.exe" "C:/Users/WordPress System/Documents/docoding/webscrapper-medicine-python/1mg/1mg_handler.py"
+LogFound: Continuing From Index 1
+----------------------------------------------------------------------------------------------------------
+STARTING[ 1 / 1992 ] Abacavir Sulfate and Lamivudine
+----------------------------------------------------------------------------------------------------------
+HTTPError: No Match Found | Bad Gateway
+STARTING[ 2 / 1992 ] Abacavir Sulfate, Lamivudine and Zidovudine
+----------------------------------------------------------------------------------------------------------
+HTTPError: No Match Found | Bad Gateway
+STARTING[ 3 / 1992 ] Abaloparatide
+----------------------------------------------------------------------------------------------------------
+STARTING[ 4 / 1992 ] Abarelix
+----------------------------------------------------------------------------------------------------------
+STARTING[ 5 / 1992 ] Abatacept
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 1 ] /generics/abatacept-212955
+		STAGE-2[ 1 / 1 ] /brands/orencia-b3JlbmNpYQ==
+				STAGE-3[ 1 / 1 ] /drugs/orencia-250mg-injection-232117
+						DRUG:
+						RAW OUTPUT CREATED:  Orencia 250 mg Injection
+						USER-FRIENDLY OUTPUT CREATED:  Orencia 250 mg Injection
+STARTING[ 6 / 1992 ] Abciximab
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 1 ] /generics/abciximab-209309
+		STAGE-2[ 1 / 3 ] /brands/abcixirel-YWJjaXhpcmVs
+				STAGE-3[ 1 / 1 ] /drugs/abcixirel-10mg-injection-157692
+						DRUG:
+						RAW OUTPUT CREATED:  Abcixirel 10 mg Injection
+AttributeError: primary_use_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Abcixirel 10 mg Injection
+		STAGE-2[ 2 / 3 ] /brands/faximab-ZmF4aW1hYg==
+				STAGE-3[ 1 / 1 ] /drugs/faximab-10mg-injection-232335
+						DRUG:
+						RAW OUTPUT CREATED:  Faximab 10 mg Injection
+AttributeError: primary_use_of_drug
+AttributeError: price_of_drug
+AttributeError: price_per_tablet_of_drug
+AttributeError: quantity_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Faximab 10 mg Injection
+		STAGE-2[ 3 / 3 ] /brands/reopro-cmVvcHJv
+				STAGE-3[ 1 / 2 ] /drugs/reopro-10mg-injection-232933
+						DRUG:
+						RAW OUTPUT CREATED:  Reopro 10 mg Injection
+AttributeError: primary_use_of_drug
+						USER-FRIENDLY OUTPUT CREATED:  Reopro 10 mg Injection
+				STAGE-3[ 2 / 2 ] /otc/reopro-device-otc306974
+						OTC:
+						LOGGED:
+STARTING[ 7 / 1992 ] Abemaciclib
+----------------------------------------------------------------------------------------------------------
+STARTING[ 8 / 1992 ] Abiraterone Acetate
+----------------------------------------------------------------------------------------------------------
+HTTPError: No Match Found | Bad Gateway
+STARTING[ 9 / 1992 ] Abobotulinumtoxin A Injection
+----------------------------------------------------------------------------------------------------------
+HTTPError: No Match Found | Bad Gateway
+STARTING[ 10 / 1992 ] Acalabrutinib
+----------------------------------------------------------------------------------------------------------
+STARTING[ 11 / 1992 ] Acamprosate
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 1 ] /generics/acamprosate-209310
+		STAGE-2[ 1 / 3 ] /brands/acamprol-YWNhbXByb2w=
+				STAGE-3[ 1 / 1 ] /drugs/acamprol-333mg-tablet-40350
+						DRUG:
+						RAW OUTPUT CREATED:  Acamprol 333 mg Tablet
+						USER-FRIENDLY OUTPUT CREATED:  Acamprol 333 mg Tablet
+		STAGE-2[ 2 / 3 ] /brands/acamptas-YWNhbXB0YXM=
+				STAGE-3[ 1 / 1 ] /drugs/acamptas-333mg-tablet-166710
+						DRUG:
+						RAW OUTPUT CREATED:  Acamptas 333 mg Tablet
+						USER-FRIENDLY OUTPUT CREATED:  Acamptas 333 mg Tablet
+		STAGE-2[ 3 / 3 ] /brands/acmacal-YWNtYWNhbA==
+				STAGE-3[ 1 / 1 ] /drugs/acmacal-333mg-tablet-236568
+						DRUG:
+						RAW OUTPUT CREATED:  Acmacal 333 mg Tablet
+						USER-FRIENDLY OUTPUT CREATED:  Acmacal 333 mg Tablet
+STARTING[ 12 / 1992 ] Acarbose
+----------------------------------------------------------------------------------------------------------
+STAGE-1[ 1 / 2 ] /generics/acarbose-209311
+		STAGE-2[ 1 / 10 ] /brands/glucobay-Z2x1Y29iYXk=
+
+  File "C:\Users\WordPress System\AppData\Local\Programs\Python\Python37-32\lib\ssl.py", line 908, in read
+    return self._sslobj.read(len, buffer)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+Process finished with exit code 1
+
